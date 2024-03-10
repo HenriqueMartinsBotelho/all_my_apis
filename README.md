@@ -1,5 +1,7 @@
 # Projeto Full Stack
 
+Vídeo apresentação: -[https://youtu.be/zDf7HbNw9hY](https://youtu.be/zDf7HbNw9hY)
+
 ## Pré-requisitos
 
 Antes de começar, certifique-se de que você tem instalado em sua máquina:
