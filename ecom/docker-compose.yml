@@ -4,6 +4,7 @@ services:
   mysql:
     image: mysql:5.7
     environment:
+      container_name: ecom-mysql
       MYSQL_DATABASE: ${DB_NAME}
       MYSQL_ROOT_PASSWORD: ${DB_PASSWORD}
     ports:
